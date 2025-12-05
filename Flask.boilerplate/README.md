@@ -1,6 +1,7 @@
 #Flask Migrate
 
-#Instalacion
+#I
+nstalacion
 
 pip install flasl-migrate
 
